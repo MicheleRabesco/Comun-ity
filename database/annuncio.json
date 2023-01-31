@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "63cfbd3365481c5d31031253"
+  },
+  "id": 1,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "m.iannucci1@studenti.unisa.it",
+  "titolo": "Spesa",
+  "descrizione": "Latte, uova",
+  "indirizzo": "via giorgio nÂ°23, Rapolla(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63cfbdf765481c5d31031254"
+  },
+  "id": 2,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "m.iannucci1@studenti.unisa.it",
+  "titolo": "Tagliare erba di un giardino",
+  "descrizione": "Mi servirebbe qualcuno per tagliare l'erba del giardino di casa",
+  "indirizzo": "via giorgio nÂ°23, Rapolla(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63cfbeaf65481c5d31031255"
+  },
+  "id": 3,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "citarella01@gmail.com",
+  "titolo": "Passaggio per Roma",
+  "descrizione": "Vorrei arrivare a Roma il 30 Gennaio",
+  "indirizzo": "via giacomo nÂ°40, Melfi(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63cfbee165481c5d31031256"
+  },
+  "id": 4,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "citarella01@gmail.com",
+  "titolo": "Spesa",
+  "descrizione": "Carne e insalata",
+  "indirizzo": "via giacomo nÂ°40, Melfi(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": true
+},{
+  "_id": {
+    "$oid": "63cfc25265481c5d31031257"
+  },
+  "id": 5,
+  "abilitazioneRichiesta": "idraulico",
+  "autore": "citarella01@gmail.com",
+  "titolo": "Lavoro idraulico",
+  "descrizione": "Problemi con il lavandino",
+  "indirizzo": "via giacomo nÂ°40, Melfi(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63cfc34265481c5d31031258"
+  },
+  "id": 6,
+  "abilitazioneRichiesta": "elettricista",
+  "autore": "citarella01@gmail.com",
+  "titolo": "Aggiunta nuova presa",
+  "descrizione": "Aggiungere una nuova presa in una stanza ",
+  "indirizzo": "via giacomo n°40, Melfi(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d047df5e9b3875727cbd06"
+  },
+  "id": 7,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "costantina.v01@gmail.com",
+  "titolo": "Pulizie domestiche",
+  "descrizione": "Pulire casa",
+  "indirizzo": "via Marmo n°120, Ripacandida(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "biagio17@gmail.com",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d048c35e9b3875727cbd07"
+  },
+  "id": 8,
+  "abilitazioneRichiesta": "falegname",
+  "autore": "costantina.v01@gmail.com",
+  "titolo": "50 quintali di legna",
+  "descrizione": "Cerco legna per l'inverno",
+  "indirizzo": "via Marmo n°120, Ripacandida(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d04a1e5e9b3875727cbd08"
+  },
+  "id": 9,
+  "abilitazioneRichiesta": "fabbro",
+  "autore": "biagio17@gmail.com",
+  "titolo": "Cancello di ferro",
+  "descrizione": "Cerco cancello di ferro per la mia proprietÃ ",
+  "indirizzo": "Viale delle Repubbliche 17, Lioni",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d04aad5e9b3875727cbd09"
+  },
+  "id": 10,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "biagio17@gmail.com",
+  "titolo": "Passaggio per Rapolla",
+  "descrizione": "Passaggio per Rapolla in Basilicata, il giorno 3 Febbraio",
+  "indirizzo": "Viale delle Repubbliche 17, Lioni",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d04ba55e9b3875727cbd0a"
+  },
+  "id": 11,
+  "abilitazioneRichiesta": "project manager",
+  "autore": "biagio17@gmail.com",
+  "titolo": "Pm per un progetto software",
+  "descrizione": "Cerco un pm che faccia almeno 3 minuti di registrazione per ogni singolo messaggio",
+  "indirizzo": "via giorgio nÂ°23, Rapolla(PZ)",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674518400000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677110400000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d3fcedb63bce4a97466bab"
+  },
+  "id": 12,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "comunity.unisa@gmail.com",
+  "titolo": "Spesa",
+  "descrizione": "Ho bisogno di: Uova, Latte, 1kg di mele, 2kg di macinato. Grazie!",
+  "indirizzo": "Via Delle Mele 64",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674777600000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677369600000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+},{
+  "_id": {
+    "$oid": "63d40367b63bce4a97466bac"
+  },
+  "id": 13,
+  "abilitazioneRichiesta": "nessuna",
+  "autore": "comunity.unisa@gmail.com",
+  "titolo": "Spesa",
+  "descrizione": "Ho bisogno di: Uova, Latte, 2kg di macinato. Grazie!",
+  "indirizzo": "Via Delle Rose 64",
+  "dataPubblicazione": {
+    "$date": {
+      "$numberLong": "1674777600000"
+    }
+  },
+  "incaricato": "nessuno",
+  "dataFine": {
+    "$date": {
+      "$numberLong": "1677369600000"
+    }
+  },
+  "recensione": -1,
+  "terminato": false
+}]

@@ -1,0 +1,329 @@
+[{
+  "_id": {
+    "$oid": "63b2f31d13e41a3e0504194e"
+  },
+  "ruolo": "professionista",
+  "abilitazione": "project manager",
+  "nome": "Elio",
+  "cognome": "Testa",
+  "eta": 24,
+  "mail": "e.testa7@studenti.unisa.it",
+  "password": "Eliotesta98)(",
+  "sesso": "M",
+  "numeroTelefono": "3496858083",
+  "indirizzo": "Via Casale San Felice 98 Montefusco Avellino 83030",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "892080000000"
+    }
+  },
+  "recensioni": [],
+  "blacklist": false,
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63b4497809e909412fc4333c"
+  },
+  "ruolo": "admin",
+  "abilitazione": "nessuna",
+  "nome": "Alessandro",
+  "cognome": "Falcone",
+  "eta": 21,
+  "mail": "alefaster25@gmail.com",
+  "password": "Al&ssandro01.",
+  "sesso": "M",
+  "numeroTelefono": "3805821643",
+  "indirizzo": "viale michelangelo, 29, santa maria capua vetere (CE)",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "990748800000"
+    }
+  },
+  "recensioni": [],
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63b98fc35d192b79d42ec44d"
+  },
+  "ruolo": "admin",
+  "abilitazione": "nessuna",
+  "nome": "Biagio",
+  "cognome": "Andreucci",
+  "eta": 21,
+  "mail": "biagioo2001.73@gmail.com",
+  "password": "Biagio_2001?",
+  "sesso": "M",
+  "numeroTelefono": "3348102432",
+  "indirizzo": "Via Vulture 157 Rapolla Potenza 84027",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "982368000000"
+    }
+  },
+  "recensioni": [],
+  "blacklist": false,
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63bee2e558566f3eb41d4ce1"
+  },
+  "ruolo": "admin",
+  "abilitazione": "nessuna",
+  "nome": "Gabriele",
+  "cognome": "Santoro",
+  "eta": 21,
+  "mail": "gabrielesantoro46@gmail.com",
+  "password": "Prova_123$",
+  "sesso": "M",
+  "numeroTelefono": "3349006948",
+  "indirizzo": "Via Raffaele Ricci 36 Salerno Salerno 84128",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "998265600000"
+    }
+  },
+  "recensioni": [],
+  "blacklist": false,
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63c16e9085873870d3de0b94"
+  },
+  "ruolo": "admin",
+  "abilitazione": "nessuna",
+  "nome": "Andre",
+  "cognome": "Aceto",
+  "eta": 22,
+  "mail": "a.aceto6@studenti.unisa.it",
+  "password": "Prova123??",
+  "sesso": "M",
+  "numeroTelefono": "3342002177",
+  "indirizzo": "Via Salita Chiarito 5 Amalfi Salerno 84011",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "959212800000"
+    }
+  },
+  "recensioni": [
+    6
+  ],
+  "blacklist": false,
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63c6584ca8cda23006f6e1cd"
+  },
+  "ruolo": "admin",
+  "abilitazione": "nessuna",
+  "nome": "Michele",
+  "cognome": "Rabesco",
+  "eta": 24,
+  "mail": "m.rabesco@studenti.unisa.it",
+  "password": "Michele16!",
+  "sesso": "M",
+  "numeroTelefono": "3338651333",
+  "indirizzo": "Via Pergola 57, Minori (SA)",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "908496000000"
+    }
+  },
+  "recensioni": [
+    5
+  ],
+  "blacklist": false,
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63ce9031bed9869f165c5607"
+  },
+  "ruolo": "cittadino",
+  "abilitazione": "nessuna",
+  "nome": "Michele",
+  "cognome": "Iannucci",
+  "eta": 24,
+  "mail": "m.iannucci1@studenti.unisa.it",
+  "password": "Passwords?1",
+  "sesso": "M",
+  "numeroTelefono": "3496858083",
+  "indirizzo": "Via Casale San Felice 98 Montefusco Avellino 83030",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "892080000000"
+    }
+  },
+  "recensioni": [],
+  "blacklist": false,
+  "durataBL": "permanente"
+},{
+  "_id": {
+    "$oid": "63ce9532bed9869f165c5611"
+  },
+  "abilitazione": "nessuna",
+  "cognome": "Citarella",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "1001894400000"
+    }
+  },
+  "durataBL": "permanente",
+  "eta": 21,
+  "indirizzo": "Via Villamena 3 Minori Salerno 84010",
+  "mail": "citarella01@gmail.com",
+  "nome": "Mario",
+  "numeroTelefono": "3334445556",
+  "password": "LinkUn!s4",
+  "ruolo": "cittadino",
+  "sesso": "M",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63ce9538bed9869f165c5612"
+  },
+  "abilitazione": "nessuna",
+  "cognome": "Vincenzo",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "1005955200000"
+    }
+  },
+  "durataBL": "permanente",
+  "eta": 21,
+  "indirizzo": "Via da qui 1 Castelcivita Salerno 84020 ",
+  "mail": "costantina.v01@gmail.com",
+  "nome": "Costantina",
+  "numeroTelefono": "3283380076",
+  "password": "Cats&lc1vit4",
+  "ruolo": "cittadino",
+  "sesso": "F",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63ce953ebed9869f165c5613"
+  },
+  "abilitazione": "nessuna",
+  "cognome": "Ingrisani",
+  "eta": 21,
+  "indirizzo": "Viale delle Repubbliche 17 Lioni Avellino 83047",
+  "mail": "biagio17@gmail.com",
+  "nome": "Giusy",
+  "numeroTelefono": "3334445556",
+  "password": "s0Lo_b!aggio",
+  "ruolo": "cittadino",
+  "sesso": "F",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "1005436800000"
+    }
+  },
+  "durataBL": "permanente",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63ce954dbed9869f165c5614"
+  },
+  "abilitazione": "idraulico",
+  "cognome": "Verdi",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "320889600000"
+    }
+  },
+  "durataBL": "permanente",
+  "eta": 42,
+  "indirizzo": "Strada Statale 88 122 Fisciano Salerno 84084",
+  "mail": "giu.verdi@gmail.com",
+  "nome": "Giuseppe",
+  "numeroTelefono": "3335556667",
+  "password": "p4ssW0?d_",
+  "ruolo": "professionista",
+  "sesso": "M",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63ce9554bed9869f165c5615"
+  },
+  "abilitazione": "elettricista",
+  "cognome": "Amendola",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "-125020800000"
+    }
+  },
+  "durataBL": "permanente",
+  "eta": 57,
+  "indirizzo": "Salita Torre dello Ziro 27 Amalfi Salerno 84011",
+  "mail": "chicco.ame66@virgilio.it",
+  "nome": "Francesco",
+  "numeroTelefono": "3336667778",
+  "password": "p4ssW0?d_1",
+  "ruolo": "professionista",
+  "sesso": "M",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63ce9559bed9869f165c5616"
+  },
+  "abilitazione": "falegname",
+  "cognome": "Amato",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "958521600000"
+    }
+  },
+  "durataBL": "permanente",
+  "eta": 22,
+  "indirizzo": "Piazza Vescovado 1 Ravello Salerno 84010",
+  "mail": "g.amato00@libero.it",
+  "nome": "Gennaro",
+  "numeroTelefono": "3232323232",
+  "password": "p4ssW0?d_2",
+  "ruolo": "professionista",
+  "sesso": "M",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63ce955ebed9869f165c5617"
+  },
+  "abilitazione": "fabbro",
+  "cognome": "Rossi",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "558316800000"
+    }
+  },
+  "durataBL": "permanente",
+  "eta": 35,
+  "indirizzo": "Via Giovanni Paolo II 5 Fisciano Salerno 84084",
+  "mail": "mario.rossi987@gmail.com",
+  "nome": "Mario",
+  "numeroTelefono": "3331112224",
+  "password": "p4ssW0?d_3",
+  "ruolo": "professionista",
+  "sesso": "M",
+  "recensioni": []
+},{
+  "_id": {
+    "$oid": "63d3fc50b63bce4a97466baa"
+  },
+  "ruolo": "cittadino",
+  "abilitazione": "nessuna",
+  "nome": "Comunity",
+  "cognome": "Comunity",
+  "eta": 0,
+  "mail": "comunity.unisa@gmail.com",
+  "password": "Prova_123$",
+  "sesso": "M",
+  "numeroTelefono": "1231231234",
+  "indirizzo": "Via Delle Rose",
+  "dataNascita": {
+    "$date": {
+      "$numberLong": "1664409600000"
+    }
+  },
+  "recensioni": [
+    5
+  ],
+  "blacklist": false,
+  "durataBL": "permanente"
+}]
